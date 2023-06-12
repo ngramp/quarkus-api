@@ -1,2 +1,6 @@
-package org.globolist.model;public class ArticleType {
+package org.globolist.model;
+
+public enum ArticleType {
+    FREE,
+    PREMIUM
 }

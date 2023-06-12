@@ -1,2 +1,7 @@
-package org.globolist.model;public class UserRole {
+package org.globolist.model;
+
+public enum UserRole {
+    MEMBER,
+    EDITOR,
+    ADMIN
 }
